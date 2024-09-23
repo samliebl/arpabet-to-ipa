@@ -1,0 +1,23 @@
+{
+  "name": "arpabet-to-ipa",
+  "version": "1.0.0",
+  "description": "Translates ARPABET to IPA",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samliebl/arpabet-to-ipa.git"
+  },
+  "author": "Sam Liebl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samliebl/arpabet-to-ipa/issues"
+  },
+  "homepage": "https://github.com/samliebl/arpabet-to-ipa#readme",
+  "devDependencies": {
+    "cmu-pronouncing-dictionary": "^3.0.0"
+  }
+}
